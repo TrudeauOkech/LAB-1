@@ -1,6 +1,6 @@
 # LAB-1
 
-Question 2 
+Question 2 is
 a lexer to detect and count unique hashtags and mentions in a social media-like text
 Rules
 The rules are set up to identify hashtags (starting with '#') and mentions (starting with '@').
