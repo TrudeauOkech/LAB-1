@@ -6,7 +6,7 @@
 
 %%
 [a-zA-Z]+    { printf("%s\n", yytext); }
-.            ;  /* Ignore other characters */
+.            ;  /* Ignore the other characters */
 %%
 
 int main() {
